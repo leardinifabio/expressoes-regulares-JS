@@ -16,7 +16,7 @@ Estudo da Alura sobre expressões regulares.
 - \s - whitespace [\t\r\n\f]
 - \w - wordchar [A-Za-z0-9_]
 
-#Âncoras
+# Âncoras
 Servem para marcar uma posição específica no alvo.
 
 Âncoras mais comuns: 

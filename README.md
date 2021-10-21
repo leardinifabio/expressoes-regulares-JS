@@ -15,3 +15,12 @@ Estudo da Alura sobre expressões regulares.
 - \d - todos os dígitos [0-9]
 - \s - whitespace [\t\r\n\f]
 - \w - wordchar [A-Za-z0-9_]
+
+#Âncoras
+Servem para marcar uma posição específica no alvo.
+
+Âncoras mais comuns: 
+- ^ servem para marcar uma posição no início de uma string (nada deve vir antes).
+- $ servem para marcar uma posição no final de uma string (nada deve vir depois).
+- \b é uma âncora que seleciona um word boundary, isso é o início ou fim da palavra.
+- \B (non-word-boundary) 
